@@ -82,11 +82,28 @@ The dataset contains **100,000 customer records** with features such as:
 ### 7. DATA VISUALIZATION
 
 * Count plots
+<img width="598" height="456" alt="image" src="https://github.com/user-attachments/assets/2e85ff8d-4730-425c-897f-c70fd2ebfbb6" />
+
+
 * Pie charts
+<img width="446" height="408" alt="image" src="https://github.com/user-attachments/assets/963a6ff7-fa4c-4b30-8dbc-675949ad96db" />
+
+
 * Histograms
+<img width="558" height="432" alt="image" src="https://github.com/user-attachments/assets/9b648bf7-8d88-4b10-8193-e4e2738a9219" />
+
+
 * Scatter plots
+<img width="571" height="451" alt="image" src="https://github.com/user-attachments/assets/f6959d6a-1189-4905-9f83-f91bbd061220" />
+
+
 * Box plots
+<img width="595" height="450" alt="image" src="https://github.com/user-attachments/assets/1c2e02bf-6801-459b-a6e2-b99e2f58b026" />
+
+
 * Heatmaps
+<img width="644" height="534" alt="image" src="https://github.com/user-attachments/assets/97312077-c5b1-4112-8f92-ab5096d53e0f" />
+
 
 ---
 
