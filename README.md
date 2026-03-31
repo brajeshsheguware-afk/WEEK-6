@@ -90,7 +90,7 @@ The dataset contains **100,000 customer records** with features such as:
 
 ---
 
-## 📈 KEY INSIGHTS
+## KEY INSIGHTS
 
 * Low balance and inactive customers have higher churn
 * Customers with low tenure are more likely to leave
